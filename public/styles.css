@@ -1,0 +1,25 @@
+body{
+    font-family: 'DM Sans', sans-serif;
+    background-color:#fff;
+}
+.heading{
+    margin-top:20px;
+    text-align:center;
+}
+.inputArea{
+    text-align:center;
+    padding:20px 0;
+    margin: 10px;
+}
+.rxItem{
+    padding:20px 0;
+    margin:0 auto;
+    line-height: 1.5;
+    text-align:center;
+    font-size:larger;
+    width:90%;
+}
+.rxItem:hover{
+background-color:#1F4690;
+color:#fff;
+}
